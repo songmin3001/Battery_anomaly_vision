@@ -1,6 +1,6 @@
 # battery_anomaly_vision
 
-배터리 외관 이상 자동 판별 시스템  
+배터리 외관 이상 자동 판별 시스템
 EfficientNet-B3 + Grad-CAM + TTA 기반 불량 분류 및 이상 정도 정량화
 
 ---
